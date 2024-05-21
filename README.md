@@ -1,6 +1,7 @@
 # Project 3: datafun-04-jupyter
 Title: Specification for Project 4 Jupyter Notebook
-Author: Anjana Dhakal, May 20,2024
+
+ Anjana Dhakal, May 20,2024
 
 ## Overview
 Project 4 uses a combination of Python and Markdown to create an initial data story in a Jupyter Notebook. The project includes a project virtual environment with popular libraries for data analytics including pandas, matplotlib, and seaborn, and introduces a common process for starting exploratory data analysis projects.
@@ -10,9 +11,9 @@ Develop a Jupyter Notebook that demonstrates skills with Jupyter and guided expl
 
 ## Create GitHub Repository
 ```
-- GitHub Repository: datafun-04-jupyter
-- Documentation: README.md
-- Notebook: anjana_eda.ipynb
+ GitHub Repository: datafun-04-jupyter
+ Documentation: README.md
+ Notebook: anjana_eda.ipynb
 ```
 
 ## Clone to VS Code 
@@ -28,8 +29,8 @@ git clone site_URL
   
 ## Create Project Virtual Environment
 ```
-- python -m venv .venv
-- source .\.venv\Scripts\activate
+ python -m venv .venv
+ source .\.venv\Scripts\activate
 ```
 
 ## Install all Required Packages
@@ -40,9 +41,9 @@ git clone site_URL
 
 ## Git add and commit
 ```
-- git add .
-- git commit -m "final project"
-- git push origin main
+git add .
+git commit -m "final project"
+git push origin main
 ```
 ## Source
 This project was built to the following specifications: https://github.com/denisecase/datafun-04-spec
