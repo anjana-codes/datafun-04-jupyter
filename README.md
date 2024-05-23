@@ -1,4 +1,4 @@
-# Project 3: datafun-04-jupyter
+# Project 4: datafun-04-jupyter
 Title: Specification for Project 4 Jupyter Notebook
 
  Anjana Dhakal, May 20,2024
