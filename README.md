@@ -7,7 +7,7 @@ Title: Specification for Project 4 Jupyter Notebook
 Project 4 uses a combination of Python and Markdown to create an initial data story in a Jupyter Notebook. The project includes a project virtual environment with popular libraries for data analytics including pandas, matplotlib, and seaborn, and introduces a common process for starting exploratory data analysis projects.
 
 ## Objectives
-Develop a Jupyter Notebook that demonstrates skills with Jupyter and guided exploratory data analysis.
+Develop a Jupyter Notebook demonstrating skills with Jupyter and guided exploratory data analysis.
 
 ## Create GitHub Repository
 ```
@@ -29,14 +29,14 @@ git clone site_URL
   
 ## Create Project Virtual Environment
 ```
- python -m venv .venv
- source .\.venv\Scripts\activate
+ py -m venv .venv
+.venv\Scripts\Activate
 ```
 
 ## Install all Required Packages
 ```
- python -m pip install -r requirements.txt
- python -m pip freeze > requirements.txt
+ py -m pip install -r requirements.txt
+ py -m pip freeze > requirements.txt
 ```
 
 ## Git add and commit
